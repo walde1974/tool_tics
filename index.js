@@ -1,5 +1,5 @@
-alert ("jelow!!, aca estamos de vuelta !!")
+a=prompt("ingrese primer valor: ");
+b=prompt("ingrese segundo valor: ")
+multi=a*b
+alert (multi)
 
-let d, e, multiplicar;
-d=20, e=30, multiplicar=d*e;
-alert(multiplicar)
